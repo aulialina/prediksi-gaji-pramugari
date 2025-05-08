@@ -1,4 +1,5 @@
 import streamlit as st
+import joblib
 import numpy as np
 
 # Memuat model regresi linier yang sudah disimpan
